@@ -2,7 +2,7 @@
 
 A two-part final project for the IT Department of Albstadt-Sigmaringen University, simulating a Scope 2 (purchased electricity) sustainability report from scratch — starting from a synthetic hourly consumption dataset and ending with concrete, quantified carbon-reduction strategies.
 
-**Team:** Yogesh Sakharam Magare (111373) & Pradnya Dipak Nalawade (111372)
+Pradnya Dipak Nalawade (111372)
 
 ## Overview
 
